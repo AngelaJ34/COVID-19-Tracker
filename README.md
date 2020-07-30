@@ -6,7 +6,7 @@ COVID-19 Tracker website project is built to showcase the total contracted infec
 
 React JS, Javascript, NodeJs, Bootstrap, CSS, HTML5
 
-# Reference for statistcal data for all continents world-wide
+# Reference for COVID-19 statistcal data for all continents world-wide
 
 disease.sh Docs - An open API for disease-related statistics
 
