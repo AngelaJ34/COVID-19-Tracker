@@ -1,4 +1,4 @@
-# COVID-19-Tracker
+# Overview
 
 COVID-19 Tracker website project is built to showcase the total contracted infections, deaths, and recovery cases world-wide.
 
