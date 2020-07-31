@@ -1,6 +1,6 @@
 # Overview
 
-COVID-19 Tracker website project is built to showcase the total contracted infections, deaths, and recovery cases world-wide. The red graph and the world map provides a clearer illustration for were COVID-19 is present around the world.
+COVID-19 Tracker website project is built to showcase the total contracted infections, deaths, and recovery cases world-wide. The red graph and the world map provides a clearer illustration to where COVID-19 is shown around the world including all the parameters above.
 
 # Technology tools & packages used
 
